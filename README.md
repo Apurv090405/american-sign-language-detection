@@ -1,4 +1,4 @@
-# American Sign Language Recognition Model (https://american-sign-language-detection-4fcwdnqtjszseqw6ydrtnb.streamlit.app/)
+# [American Sign Language Recognition Model](https://american-sign-language-detection-4fcwdnqtjszseqw6ydrtnb.streamlit.app/)
 
 ## Overview
 This project focuses on building a sign language recognition model using deep learning techniques. The model is trained to classify hand gestures representing different letters or words in sign language.
